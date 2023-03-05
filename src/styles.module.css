@@ -1,0 +1,5 @@
+/* When added module to the name it won't collide when added to certain pages or scopes to be directly added to pages. You have to use classes than tags */
+
+.text {
+    color: red;
+}
